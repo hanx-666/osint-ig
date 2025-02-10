@@ -1,3 +1,6 @@
+# Wkwk mau recode? ya ya ambil aja
+# Tapi jan lupa kasih credit gw © HanX
+
 import sys
 import subprocess
 
